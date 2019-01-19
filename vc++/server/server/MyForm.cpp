@@ -1,5 +1,4 @@
 #include "MyForm.h"
-#include <omp.h>
 
 using namespace server;
 

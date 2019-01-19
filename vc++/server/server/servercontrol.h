@@ -1,6 +1,4 @@
-#include <omp.h>
-#include <iostream>
-#include <String.h>
+#include "MyForm.h"
 #include "socket_support.h"
 
 #pragma once

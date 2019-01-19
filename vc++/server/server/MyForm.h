@@ -1,3 +1,7 @@
+#include <omp.h>
+#include <iostream>
+#include <String.h>
+
 #pragma once
 
 namespace server {
