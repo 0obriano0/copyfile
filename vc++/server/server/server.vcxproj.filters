@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="資源檔\images">
+      <UniqueIdentifier>{5a5b068c-d530-46a1-9b56-5ea85a2223c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyForm.cpp">
@@ -35,13 +38,18 @@
     <ClInclude Include="servercontrol.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="socket_support.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">
       <Filter>資源檔</Filter>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\green.png">
+      <Filter>資源檔\images</Filter>
+    </Image>
+    <Image Include="images\red.png">
+      <Filter>資源檔\images</Filter>
+    </Image>
   </ItemGroup>
 </Project>
