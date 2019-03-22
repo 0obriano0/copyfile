@@ -1,3 +1,5 @@
 ﻿  MyForm.cpp
-  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
-  server.vcxproj -> C:\Users\0obriano0\Documents\GitHub\copyfile\vc++\server\Debug\server.exe
+  servercontrol.cpp
+  user.cpp
+  正在產生程式碼...
+c:\users\brian\onedrive\documents\github\copyfile\vc++\server\server\servercontrol.cpp(9): error C4716: 'servercontrol::userlist': 必須傳回值
